@@ -8,10 +8,10 @@ And you can use the text below as a starting point for the README of your fresh 
 
 ----
 
-# Prequisites
+# Prerequisites
 
-* `docker` [installation](https://docs.docker.com/install/)
-* `docker-compose` [installation](https://docs.docker.com/compose/install/)
+* `docker` [installation instructions](https://docs.docker.com/install/)
+* `docker-compose` [installation instructions](https://docs.docker.com/compose/install/)
 * `ruby` (version specified in `Gemfile`)
 * `node` (version specified in `package.json`: `"engines.node"`)
 
