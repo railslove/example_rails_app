@@ -1,6 +1,6 @@
 # example_rails_app
 
-This is a repo to document the current Railslove-way of setting up a Rails app.
+This is a repo to document the reference for the current Railslove-way of setting up a Rails app.
 
 You can use this as a goal definition for bringing older projects up-to-date.
 
