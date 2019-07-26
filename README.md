@@ -13,7 +13,7 @@ And you can use the text below as a starting point for the README of your fresh 
 * `docker` [installation](https://docs.docker.com/install/)
 * `docker-compose` [installation](https://docs.docker.com/compose/install/)
 * `ruby` (version specified in `Gemfile`)
-* `node` (version specified in `package.json`: `engines.node`)
+* `node` (version specified in `package.json`: `"engines.node"`)
 
 # Package installation
 
@@ -34,8 +34,6 @@ This way you can simply start the app by running:
 For some additional configuration options (e.g. sensible ENV vars, special local debugging cases) copy the following file:
 
 `cp .env.local.development.example .env.local.development` 
-
-
 
 # Configuration options
 
