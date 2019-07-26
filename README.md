@@ -30,6 +30,7 @@ This way you can simply start the app by running:
 * `rails db:setup`
 * (`rake production_data:download_and_import`)
 * `rails server`
+* `bin/webpack-dev-server` (for hot reloading)
 
 For some additional configuration options (e.g. sensible ENV vars, special local debugging cases) copy the following file:
 
