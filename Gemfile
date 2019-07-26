@@ -1,3 +1,5 @@
+ruby '2.x.x'
+
 # ...
 
 gem 'sentry-raven'
