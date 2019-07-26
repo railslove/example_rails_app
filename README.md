@@ -1,8 +1,8 @@
 # example_rails_app
 
-This is a repo to document the reference for the current Railslove-way of setting up a Rails app.
+This is a repo to document the current Railslove-way of setting up a Rails app.
 
-You can use this as a goal definition for bringing older projects up-to-date.
+You can e.g. use this repo as a reference for aligning older projects to the current conventions.
 
 And you can use the text below as a starting point for the README of your fresh Rails app:
 
