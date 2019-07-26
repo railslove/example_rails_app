@@ -42,4 +42,10 @@ Use Rails secrets for sensitive credentials! If they **need** to be ENV vars, us
 
 For more detailed information see: [Ruby on Rails Stack docs](https://paper.dropbox.com/doc/Ruby-on-Rails-Stack--AhoqRW~2JNzwT8eLnUD8TFOvAg-MWCJEp2LzHBXTTXO61rot).
 
+# Exception tracking
 
+We use [Sentry](https://sentry.io/) to track all exceptions that happen in production(/staging).
+
+You can find the Sentry project here: https://sentry.io/organizations/railslove/issues/xxxxx
+
+If you need to enable exception tracking in development (e.g. to adjust the Sentry integration), just uncomment/set the `SENTRY_DSN` ENV var in `.env.local.development`.
